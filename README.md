@@ -1,0 +1,1 @@
+Nexus Coach is an offline Fortnite AI coaching application that provides gameplay advice, stat analysis, improvement tracking, warm-up routines, and personalized training sessions using GPT4All models.
